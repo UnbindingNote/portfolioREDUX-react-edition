@@ -3,6 +3,7 @@ import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function Nav(props) {
   const {
+    // sets the beginning state of page to empty, will update to the next page/prop
     pages = [],
     setCurrentPage,
     currentPage,
