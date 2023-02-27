@@ -7,10 +7,10 @@ import Page from "./components/Page";
 function App() {
   const [pages] = useState([
     {
-      name: "about me"
+      name: "about me",
     },
     { name: "portfolio" },
-    { name: "contact" }
+    { name: "contact" },
   ]);
 
   const [currentPage, setCurrentPage] = useState(pages[0]);

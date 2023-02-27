@@ -8,13 +8,13 @@ function About() {
           <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-          General use handyman, looking to
-          better themselves in the ways of web development. Just keep pushing!
+          General use handyman, looking to better themselves in the ways of web
+          development. Just keep pushing!
         </p>
         <p>
-          Created within this bootcamp's module 20, I hope to add more links and pages as I
-          figure react out. Additional images and links will be added as I get
-          to them.
+          Created within this bootcamp's module 20, I hope to add more links and
+          pages as I figure react out. Additional images and links will be added
+          as I get to them.
         </p>
       </div>
     </section>
